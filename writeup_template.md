@@ -124,3 +124,4 @@ I used this training data for training the model. The validation set helped dete
 
 ## Reference
 - [Nvidia End to End Learning for Self-Driving Cars](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
+- [how-can-i-obtain-the-output-of-an-intermediate-layer](https://keras.io/getting-started/faq/#how-can-i-obtain-the-output-of-an-intermediate-layer)
