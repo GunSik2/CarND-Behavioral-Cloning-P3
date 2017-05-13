@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51057b1f-3e39-48cd-90b2-0e0c9003ff14" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run-sim.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drive.py" afterPath="$PROJECT_DIR$/drive.py" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="preprocess.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preprocess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="56" column="46" lean-forward="true" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+              <folding>
+                <element signature="e#152#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_011_sidemirror_correction0.3.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_011_sidemirror_correction0.3.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_01_sidemirror_correction0.1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_01_sidemirror_correction0.0.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.0.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_011_sidemirror_correction0.0.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_011_sidemirror_correction0.0.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_011_sidemirror_correction0.1.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_011_sidemirror_correction0.1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_011_sidemirror_correction0.2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_011_sidemirror_correction0.2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_01_sidemirror_correction0.2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_01_sidemirror_correction0.3.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.3.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram_01_sidemirror_correction0.25.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.25.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fit</find>
+      <find>0.1</find>
+      <find>verbose</find>
+      <find>c</find>
+      <find>plt</find>
+      <find>subsample</find>
+      <find>lamb</find>
+      <find>_float_output_suppress_small</find>
+      <find>suppress_small</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/steps/run-sim.bat" />
+        <option value="$PROJECT_DIR$/steps/train.py" />
+        <option value="$PROJECT_DIR$/steps/train_b1.py" />
+        <option value="$PROJECT_DIR$/steps/train_norm.py" />
+        <option value="$PROJECT_DIR$/steps/train_init.py" />
+        <option value="$PROJECT_DIR$/steps/train_cnn.py" />
+        <option value="$PROJECT_DIR$/steps/a02_train_cnn.py" />
+        <option value="$PROJECT_DIR$/steps/a03_train_augment.py" />
+        <option value="$PROJECT_DIR$/steps/a04_train_cameras.py" />
+        <option value="$PROJECT_DIR$/steps/a05_train_cropping.py" />
+        <option value="$PROJECT_DIR$/drive.py" />
+        <option value="$PROJECT_DIR$/steps/a051_train_cropping_moredata.py" />
+        <option value="$PROJECT_DIR$/steps/comments.md" />
+        <option value="$PROJECT_DIR$/steps/a06_train_nvidia.py" />
+        <option value="$PROJECT_DIR$/steps/a07_train_nvidia_moredata.py" />
+        <option value="$PROJECT_DIR$/steps/a08_train_plotloss.py" />
+        <option value="$PROJECT_DIR$/steps/a09_train_nvidia_mytraindata.py" />
+        <option value="$PROJECT_DIR$/run-sim.bat" />
+        <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/steps/test.py" />
+        <option value="$PROJECT_DIR$/preprocess.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="282" />
+    <option name="width" value="1262" />
+    <option name="height" value="986" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Behavioral-Cloning-P3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarND-Behavioral-Cloning-P3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gun\Workspace\CarND-Behavioral-Cloning-P3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gun\Workspace\CarND-Behavioral-Cloning-P3\examples" />
+      <recent name="C:\Users\Gun\Workspace\CarND-Behavioral-Cloning-P3" />
+      <recent name="C:\Users\Gun\Workspace\CarND-Behavioral-Cloning-P3\steps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.preprocess">
+    <configuration default="false" name="a08_train_plotloss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="C:\Users\Gun\Workspace\CarND-Behavioral-Cloning-P3\steps\a08_train_nvidia_plotloss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="a09_train_nvidia_mytraindata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/steps/a09_train_nvidia_mytraindata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/steps/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CarND-Behavioral-Cloning-P3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.a08_train_plotloss" />
+      <item index="1" class="java.lang.String" itemvalue="Python.a09_train_nvidia_mytraindata" />
+      <item index="2" class="java.lang.String" itemvalue="Python.model" />
+      <item index="3" class="java.lang.String" itemvalue="Python.preprocess" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.preprocess" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.model" />
+        <item index="3" class="java.lang.String" itemvalue="Python.a09_train_nvidia_mytraindata" />
+        <item index="4" class="java.lang.String" itemvalue="Python.a08_train_plotloss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51057b1f-3e39-48cd-90b2-0e0c9003ff14" name="Default" comment="" />
+      <created>1493562103113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493562103113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="282" y="0" width="1262" height="986" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34389672" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21363041" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24019608" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33744395" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21436717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2159228" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/steps/a02_train_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a03_train_augment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/keras/layers/convolutional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6384">
+          <caret line="357" column="31" lean-forward="false" selection-start-line="357" selection-start-column="24" selection-end-line="357" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/keras/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14478">
+          <caret line="782" column="59" lean-forward="false" selection-start-line="782" selection-start-column="50" selection-end-line="782" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-sim.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a00_train_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/keras/layers/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="207" column="8" lean-forward="false" selection-start-line="207" selection-start-column="8" selection-end-line="207" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/numpy/lib/twodim_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/model_aug.h5">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a01_train_norm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a02_train_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1297" column="54" lean-forward="false" selection-start-line="1297" selection-start-column="54" selection-end-line="1297" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/keras/engine/topology.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="1590" column="13" lean-forward="false" selection-start-line="1590" selection-start-column="13" selection-end-line="1590" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a03_train_augment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/keras/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="782" column="8" lean-forward="false" selection-start-line="782" selection-start-column="8" selection-end-line="782" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a05_train_cropping_moredata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="39" column="40" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/comments.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/keras/layers/convolutional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="427" column="33" lean-forward="true" selection-start-line="427" selection-start-column="33" selection-end-line="427" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a08_train_nvidia_plotloss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="73" column="96" lean-forward="false" selection-start-line="73" selection-start-column="96" selection-end-line="73" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a07_train_nvidia_moredata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="76" column="29" lean-forward="false" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a06_train_nvidia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="75" column="3" lean-forward="false" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a05_train_cropping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a04_train_cameras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a09/figure_1_2.5.png" />
+    <entry file="file://$PROJECT_DIR$/model.h5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a08/figure_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a09/figure_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4093">
+          <caret line="5867" column="8" lean-forward="false" selection-start-line="5867" selection-start-column="8" selection-end-line="5867" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="379" column="22" lean-forward="false" selection-start-line="379" selection-start-column="22" selection-end-line="379" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="1671" column="4" lean-forward="false" selection-start-line="1671" selection-start-column="4" selection-end-line="1671" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1710873217/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/numpy/core/arrayprint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="555" column="35" lean-forward="true" selection-start-line="555" selection-start-column="35" selection-end-line="555" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1-gpu/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="652" column="0" lean-forward="false" selection-start-line="652" selection-start-column="0" selection-end-line="652" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-sim.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_00_init.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/a09_train_nvidia_mytraindata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="90" column="21" lean-forward="false" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_011_sidemirror_correction0.3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.25.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_011_sidemirror_correction0.2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="56" column="46" lean-forward="true" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+          <folding>
+            <element signature="e#152#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_01_sidemirror_correction0.3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_011_sidemirror_correction0.0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/histogram_011_sidemirror_correction0.1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>
