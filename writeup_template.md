@@ -41,7 +41,7 @@ Using the Udacity provided simulator and my drive.py file, the car can be driven
 python drive.py model.h5
 ```
 
-####3. Submission code is usable and readable
+#### 3. Submission code is usable and readable
 
 The model.py file contains the code for training and saving the convolution neural network. The file shows the pipeline I used for training and validating the model, and it contains comments to explain how the code works. 
 For memory efficiency on augmenting data, the code in model.py uses a Python generator to generate data for training rather than storing the training data in memory.
@@ -101,7 +101,7 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 ![alt text][image2]
 
-I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to .... These images show what a recovery looks like starting from ... :
+I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to back into the center. These images show what a recovery looks like starting from left to right :
 
 ![alt text][image3]
 ![alt text][image4]
@@ -114,12 +114,11 @@ To augment the data sat, I also flipped images and angles thinking that this wou
 ![alt text][image6]
 ![alt text][image7]
 
-Etc ....
 
 After the collection process, I had X number of data points. I then preprocessed this data by ...
 
 
-I finally randomly shuffled the data set and put Y% of the data into a validation set. 
+I finally randomly shuffled the data set and put 20% of the data into a validation set. 
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was Z as evidenced by ... I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
