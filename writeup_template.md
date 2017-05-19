@@ -50,7 +50,7 @@ For memory efficiency on augmenting data, the code in model.py uses a Python gen
 
 #### 1. An appropriate model architecture has been employed
 
-My model consists of a convolution neural network with 3x3 filter sizes and depths between 32 and 128 (model.py lines 18-24) 
+The model largely based on Nvida's papaer consists of 5 Conv2D network with three 5x5 filter and two 3x3 filter and depths between 24 and 64 (model.py lines 18-24).
 
 The model includes RELU layers to introduce nonlinearity (code line 20), and the data is normalized in the model using a Keras lambda layer (code line 18). 
 
@@ -58,13 +58,12 @@ The model includes RELU layers to introduce nonlinearity (code line 20), and the
 
 The model contains **dropout layers** in order to reduce overfitting (model.py lines 21). 
 
-The model was **trained and validated on different data sets** to ensure that the model was not overfitting (code line 10-16). The used forward-driving and **backward-driving** not to overfitting on the left tern road (code line 10-16). The model was tested by running it through the simulator and ensuring that the vehicle could stay on the track.
-
+The model was **trained and validated on different data sets** to ensure that the model was not overfitting (code line 10-16). The forward-driving and **backward-driving** were used not to overfit on the left tern road (code line 10-16). Several recovery driving cases are added to handle tricky curves and slopes. The model was tested by running it through the simulator and ensuring that the vehicle could stay on the track.
 
 
 #### 3. Model parameter tuning
 
-The model used an **adam optimizer**, so the learning rate was not tuned manually (model.py line 25).
+The model used an **adam optimizer**, which handles learning rate optimization, so the learning rate was not tuned manually (model.py line 25).
 
 #### 4. Appropriate training data
 
@@ -76,9 +75,7 @@ For details about how I created the training data, see the next section.
 
 #### 1. Solution Design Approach
 
-The overall strategy for deriving a model architecture was to ...
-
-My first step was to use a convolution neural network model similar to the ... I thought this model might be appropriate because ...
+The overall strategy for deriving a model architecture was to refer to the known best practice and I used N-vidia's model.
 
 In order to gauge how well the model was working, I split my image and steering angle data into a training and validation set. I found that my first model had a low mean squared error on the training set but a high mean squared error on the validation set. This implied that the model was overfitting. 
 
